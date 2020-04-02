@@ -1,2 +1,2 @@
-# gitbooktest
-test gitbook
+# Initial page
+
